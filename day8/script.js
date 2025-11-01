@@ -68,12 +68,16 @@
 //     console.log("u pressed cancel");
 // }
 
-let age = prompt("what is your age?");
+// let age = prompt("what is your age?");
 
-if (age===null){
-    console.error("null hai bc");
-}else{
-if (age.trim() === ""){
-   console.log(" dhang se likh ");
-}
-}
+// if (age===null){
+//     console.error("null hai bc");
+// }else{
+// if (age.trim() === ""){
+//    console.log(" dhang se likh ");
+// }
+// else{
+
+// }
+// }
+
