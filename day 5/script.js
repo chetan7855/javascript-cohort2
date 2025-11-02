@@ -17,9 +17,23 @@
 
 // 5 == '5';
 
-let a= prompt("enter the number :");
-if(a>5 && a<20 && a===10){
-    console.log("greater");
-}else{
-    console.log("less then 20");
-}
+// let a= prompt("enter the number :");
+// if(a>5 && a<20 && a===10){
+//     console.log("greater");
+// }else{
+//     console.log("less then 20");
+// }
+
+// function pe housting kaam karti hain
+// test();   
+// function test (){
+//     console.log("hello");
+// }
+
+// var hello;
+// hello();
+
+// hello = function(){
+//     console.log("hi");
+// };
+
