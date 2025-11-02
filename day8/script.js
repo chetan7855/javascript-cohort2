@@ -68,6 +68,7 @@
 //     console.log("u pressed cancel");
 // }
 
+// q-8
 // let age = prompt("what is your age?");
 
 // if (age===null){
@@ -76,8 +77,10 @@
 // if (age.trim() === ""){
 //    console.log(" dhang se likh ");
 // }
-// else{
-
+// age = Number(age.trim());
+// if(isNaN (age)){
+//     console.log("its a string B****");
+// }else {
+//     console.log("its a number");
 // }
 // }
-
